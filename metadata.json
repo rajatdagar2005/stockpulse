@@ -1,0 +1,6 @@
+{
+  "name": "StockPulse",
+  "description": "Smart inventory intelligence and decision-support platform for small retailers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
