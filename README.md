@@ -2,7 +2,7 @@
 
 **Smart Inventory & Reordering Platform**
 
-live demo - https://stockpulse-2z1p.onrender.com/login
+live - https://stockpulse-2z1p.onrender.com/login
 
 ## Overview
 
